@@ -4,27 +4,27 @@
 const quiz = [
 {
  q:'Which one is not a financial statement?',
- options:['Income Statement','Cashflow Statement','Balance Sheet','Profit and Gains Statement'],
+ options:['Profit and Gains Statement','Cashflow Statement','Balance Sheet','Income Statement'],
  answer:0
 },
 {
-  q:'What color is a bannana ?',
-  options:['red','yellow','white','blue'],
+  q:'Which one measures management efficiency in using assets to generate earnings? ',
+  options:['ROE','ROA','ROAC','ROAE'],
   answer:1
  },
  {
-  q:'3 + 4 = 7 ?',
-  options:['true','false'],
-  answer:0
+  q:'Does GAAP refer to financial accounting principles that are compulsory in all countries around the globe?',
+  options:['True','false'],
+  answer:1
  },
  {
-  q:'What time of the day do we have breakfast ?',
-  options:['In the afternoon','In the evening', 'In the morning'],
+  q:'The Balance Sheet shows the balance of?',
+  options:['Total fixed assets vs Total Equity',' Current assets vs Current Liabilities', 'Assets vs Liabilities and Equity'],
   answer:2
  },
  {
-  q:'What is 22 + 6?',
-  options:['99','56', '16','28'],
+  q:'What does NPV stand for?',
+  options:['Net Profit Value','Net Present Variable', 'Net Profit Variable','Net Present Value'],
   answer:3
  }
 ]
