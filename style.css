@@ -294,7 +294,7 @@ background-color: red;
      }
     .btn:active {
         background-color: orange;
-        box-shadow: 0 5px yellow;
+        box-shadow: 0 5px orange;
         transform: translateY(2px);
      }
     
