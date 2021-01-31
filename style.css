@@ -293,8 +293,8 @@ background-color: red;
         background-color:  orange;
      }
     .btn:active {
-        background-color: #009688;
-        box-shadow: 0 5px orange;
+        background-color: orange;
+        box-shadow: 0 5px #009688;
         transform: translateY(2px);
      }
     
