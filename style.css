@@ -290,11 +290,11 @@ background-color: red;
     
     }
     .btn:hover {
-        background-color:  orange;
+        background-color:  #009688;
      }
     .btn:active {
         background-color: orange;
-        box-shadow: 0 5px #009688;
+        box-shadow: 0 5px orange;
         transform: translateY(2px);
      }
     
