@@ -26,5 +26,11 @@ const quiz = [
   q:'What does NPV stand for?',
   options:['Net Profit Value','Net Present Variable', 'Net Profit Variable','Net Present Value'],
   answer:3
- }
+ },
+  {
+  q:'Which is the worst type of variable cost?',
+  options:['Economies of scale', 'Diseconomies of scale'],
+  answer:1,
+  img:'https://user-images.githubusercontent.com/63485300/106611537-70ba4280-65ab-11eb-8ea8-a53fef9b255a.jpg' 
+ },
 ]
